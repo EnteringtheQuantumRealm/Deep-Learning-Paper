@@ -1,1 +1,1 @@
-Dive into state-of-the-art models
+Dive deeply into state-of-the-art models
