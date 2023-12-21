@@ -53,9 +53,4 @@
 2310.07653_Mini DALL·E 3 Interactive Text to Image by Prompting Large Language Models          <br>
 2310.09263_Table-tuned GPT for Diverse Table Tasks          <br>
 2311.05556_LCM-LORA A UNIVERSAL STABLE-DIFFUSION ACCELERATION M          <br>
-2309.17421_The Dawn of LMMs Preliminary Explorations with GPT-4V(ision).pdf
-2310_DALL_E_3_System_Card.pdf
-2310.06825_Mistral 7B.pdf
-2310.07653_Mini DALL·E 3 Interactive Text to Image by Prompting Large Language Models.pdf
-2310.09263_Table-tuned GPT for Diverse Table Tasks.pdf
-2311.05556_LCM-LORA A UNIVERSAL STABLE-DIFFUSION ACCELERATION M.pdf
+
