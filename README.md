@@ -28,7 +28,7 @@
 | 26  | Wide Transformer        | 2210.00640v1  WIDE ATTENTION IS THE WAY FORWARD FOR TRANSFORMERS                                                           |
 | 27  | Diffusion               | 2209.04747  Diffusion Models in Vision- A Survey                                                                           |
 | 28  | Diffusion               | 2209.00796  Diffusion Models- A Comprehensive Survey of Methods and Applications                                           |
-| 29  | GPT-4V                  | 2207.12598  CLASSIFIER-FREE DIFFUSION GUIDANCE                                                                             |
+| 29  | Diffusion               | 2207.12598  CLASSIFIER-FREE DIFFUSION GUIDANCE                                                                             |
 | 30  | GLIDE                   | 2112.10741  GLIDE- Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models                   |
 | 31  | ALiBi                   | 2108.12409v2  ATRAIN SHORT TEST LONG ATTENTION WITH LINEAR BIASES ENABLES INPUT LENGTH EXTRAPOLATION                       |
 | 32  | DMBG                    | 2105.05233  Diffusion Models Beat GANs on Image Synthesis                                                                  |
